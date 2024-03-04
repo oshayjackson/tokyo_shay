@@ -1,0 +1,21 @@
+{
+  "name": "tokyo_shay",
+  "displayName": "tokyo_shay",
+  "description": "color theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "tokyo_shay",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TokyoShay-color-theme.json"
+      }
+    ]
+  }
+}
