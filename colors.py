@@ -7,6 +7,8 @@
 "#171821"
 "#0f0f15"
 
+"#dce1f9"
+
 "#001627"
 "#B2B2B2"
 "#FC514D"
@@ -82,3 +84,73 @@
 "#859900"
 "#BAFB00"
 "#D5FFAD"
+
+
+nightfly = [
+"#001627",  "#00162790",
+"#B2B2B2",  "#B2B2B250",
+"#F68C6C",  "#F68C6C50",
+"#ae81ff",  "#ae81ff50",
+"#5E97EC",  "#5E97EC50",
+"#FFCB8B",  "#FFCB8B50",
+"#23C7A8",  "#23C7A850",
+"#FF5874",  "#FF587450",
+"#7FDBCA",  "#7FDBCA50",
+"#C792EA",  "#C792EA50",
+"#82AAFF",  "#82AAFF50",
+"#E3D18A",  "#E3D18A50",
+"#A1CD5E",  "#A1CD5E50",
+"#FC514E"   "#FC51450E"
+]
+
+mariana = {
+"#FF5370",      "#FF537050",
+"#F07178",      "#F0717850",
+"#F78C6C",      "#F78C6C50",
+"#FFCB6B",      "#FFCB6B50",
+"#C3E88D",      "#C3E88D50",
+"#B2CCD6",      "#B2CCD650",
+"#89DDFF",      "#89DDFF50",
+"#82AAFF",      "#82AAFF50",
+"#C792EA",      "#C792EA50",
+"#BB80B3",      "#BB80B350",
+"#ab7967",      "#ab796750",
+#darker     #dark50er
+"#E53935",      "#E5393550",
+"#FF5370",      "#FF537050",
+"#F76D47",      "#F76D4750",
+"#FFB62C",      "#FFB62C50",
+"#91B859",      "#91B85950",
+"#8796B0",      "#8796B050",
+"#39ADB5",      "#39ADB550",
+"#6182B8",      "#6182B850",
+"#7C4DFF",      "#7C4DFF50",
+"#945EB8",      "#945EB850",
+"#AB7967",      "#AB796750",
+}
+
+otherMariana = [
+"accent: #232E37",  #232E3750
+"bg    : #33404B",  #33404B50
+"fg    : #DBE2ED",  #DBE2ED40
+"lineN : #8D97A0",  #8D97A080
+"green : #98CE9B",  #98CE9B90
+"coral : #FF855A",  #FF855A50
+"yello : #FFB654",  #FFB65450
+"flora  : #B172FF",  #B172FF90
+"verdi : #48BCBF",  #48BCBF50
+"rblue : #60A4D6",  #60A4D630
+"mintt : #00C7A0",  #00C7A050
+"2blue : #469EFF",  #469EFF90
+"plum1 : #D5A0CF",  #D5A0CF10
+"reddd : #FF686D"   #FF686D10
+        ]
+
+#5BF78E
+#F3F99D
+#56C7FF
+#FF6AC0
+#FF5C56
+#9AEDFE
+#F1F1F0
+#282A36
