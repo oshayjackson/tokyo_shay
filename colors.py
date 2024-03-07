@@ -1,13 +1,14 @@
 "#1e1f29"
 "#1a1b26"
 "#34374b"
-"#292b3d"
-"#262736"
-"#1f202d"
-"#171821"
+"#292b3d" # background
+"#262736" # secodnary background
+"#1f202d" # sidebar background
+"#171821" # border
 "#0f0f15"
 
-"#dce1f9"
+"#ecefff"
+"#08576a"
 
 "#001627"
 "#B2B2B2"
@@ -17,7 +18,6 @@
 "#82AAFF"
 "#C792E9"
 "#7FDBCA"
-
 "#FF5874"
 "#22C7A8"
 "#FFCB8B"
@@ -30,63 +30,52 @@
 "#053642"
 "#586D75"
 "#647A83"
-
 "#9FADAD"
 "#ADB9B8"
 "#EEE7D5"
 "#FDF5E3"
 "#FFFFFF"
-
 "#332703"
 "#664D00"
 "#B58A00"
 "#FFC001"
 "#FEE99A"
-
 "#5C2308"
 "#A13D11"
 "#CB4B16"
 "#F85210"
 "#FF9468"
-
 "#57100F"
 "#B6221E"
 "#DC322F"
 "#F6524E"
 "#FE9D9B"
-
 "#551131"
 "#B0266A"
 "#D43781"
 "#F254A2"
 "#FF77B9"
-
 "#24285C"
 "#494FB6"
 "#6D71C3"
 "#9DA0ED"
 "#CCCFFE"
-
 "#103957"
 "#196497"
 "#288BD2"
 "#48AEF5"
 "#AADCFF"
-
 "#103A3D"
 "#196265"
 "#29A298"
 "#28EEDF"
 "#B9FFF9"
-
 "#2C3302"
 "#596701"
 "#859900"
 "#BAFB00"
 "#D5FFAD"
 
-
-nightfly = [
 "#001627",  "#00162790",
 "#B2B2B2",  "#B2B2B250",
 "#F68C6C",  "#F68C6C50",
@@ -101,9 +90,7 @@ nightfly = [
 "#E3D18A",  "#E3D18A50",
 "#A1CD5E",  "#A1CD5E50",
 "#FC514E"   "#FC51450E"
-]
 
-mariana = {
 "#FF5370",      "#FF537050",
 "#F07178",      "#F0717850",
 "#F78C6C",      "#F78C6C50",
@@ -111,11 +98,10 @@ mariana = {
 "#C3E88D",      "#C3E88D50",
 "#B2CCD6",      "#B2CCD650",
 "#89DDFF",      "#89DDFF50",
-"#82AAFF",      "#82AAFF50",
+"#82AAFF",      "#82AAFF30",
 "#C792EA",      "#C792EA50",
 "#BB80B3",      "#BB80B350",
 "#ab7967",      "#ab796750",
-#darker     #dark50er
 "#E53935",      "#E5393550",
 "#FF5370",      "#FF537050",
 "#F76D47",      "#F76D4750",
@@ -127,24 +113,24 @@ mariana = {
 "#7C4DFF",      "#7C4DFF50",
 "#945EB8",      "#945EB850",
 "#AB7967",      "#AB796750",
-}
 
-otherMariana = [
-"accent: #232E37",  #232E3750
-"bg    : #33404B",  #33404B50
-"fg    : #DBE2ED",  #DBE2ED40
-"lineN : #8D97A0",  #8D97A080
-"green : #98CE9B",  #98CE9B90
-"coral : #FF855A",  #FF855A50
-"yello : #FFB654",  #FFB65450
-"flora  : #B172FF",  #B172FF90
-"verdi : #48BCBF",  #48BCBF50
-"rblue : #60A4D6",  #60A4D630
-"mintt : #00C7A0",  #00C7A050
-"2blue : #469EFF",  #469EFF90
-"plum1 : #D5A0CF",  #D5A0CF10
-"reddd : #FF686D"   #FF686D10
-        ]
+
+
+ #232E37",  #232E3750
+ #33404B",  #33404B50
+ #DBE2ED",  #DBE2ED40
+ #8D97A0",  #8D97A080
+ #98CE9B",  #98CE9B90
+ #FF855A",  #FF855A50
+ #FFB654",  #FFB65450
+ #B172FF",  #B172FF10
+ #48BCBF",  #48BCBF20
+ #60A4D6",  #60A4D630
+ #00C7A0",  #00C7A050
+ #469EFF",  #469EFF90
+ #D5A0CF",  #D5A0CF10
+ #FF686D"   #FF686D10
+
 
 #5BF78E
 #F3F99D
