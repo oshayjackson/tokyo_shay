@@ -1,9 +1,9 @@
 {
   "Name": "tokyo_shay",
   "Author": "Oshay Jackson",
-  "Custodian": ["@Oshay"],
+  "Custodian": ["@oshay.py@gmail.com"],
   "Type": "dark",
-  "Description": "TokyoNight Inspired",
+  "Description": "TokyoNight inspired theme",
   "semanticTokenColors": {
     "parameter.declaration": {
       "foreground": "#FFC001"
@@ -124,9 +124,9 @@
     "pickerGroup.foreground": "#a9b1d6",
     "pickerGroup.border": "#171821",
 
-    "scrollbarSlider.background": "#BAFB00",
-    "scrollbarSlider.hoverBackground": "#BAFB0040",
-    "scrollbarSlider.activeBackground": "#BAFB0030",
+    "scrollbarSlider.background": "#34374b40",
+    "scrollbarSlider.hoverBackground": "#34374b30",
+    "scrollbarSlider.activeBackground": "#34374b20",
 
     "editorBracketHighlight.foreground1": "#698cd6", //"#7AA2F7",
     "editorBracketHighlight.foreground2": "#68b3de", //"#7DCFFF",
@@ -507,7 +507,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#9FADAD"
+        "foreground": "#98bac7"
       }
     },
     {
@@ -612,7 +612,7 @@
         "meta.at-rule.function variable.parameter.url"
       ],
       "settings": {
-        "foreground": "#9FADAD"
+        "foreground": "#FFCB8B"
       }
     },
     {
@@ -626,7 +626,7 @@
         "meta.import keyword.other"
       ],
       "settings": {
-        "foreground": "#48BCBF"
+        "foreground": "#39ADB5"
       }
     },
     {
@@ -752,7 +752,7 @@
       "name": "Object Property",
       "scope": "variable.other.object.property",
       "settings": {
-        "foreground": "#c0caf5"
+        "foreground": "#ecefff"
       }
     },
     {
@@ -766,14 +766,14 @@
       "name": "C-related Block Level Variables",
       "scope": "source.cpp meta.block variable.other",
       "settings": {
-        "foreground": "#f7768e"
+        "foreground": "#FF5370"
       }
     },
     {
       "name": "Other Variable",
       "scope": "support.other.variable",
       "settings": {
-        "foreground": "#f7768e"
+        "foreground": "#FF5370"
       }
     },
     {
@@ -801,7 +801,7 @@
         "meta.object-literal entity.name.function"
       ],
       "settings": {
-        "foreground": "#859900"
+        "foreground": "#22C7A8"
       }
     },
     {
@@ -839,7 +839,7 @@
         "variable.other.declaration"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#C792E9"
       }
     },
     {
