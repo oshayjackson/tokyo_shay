@@ -493,7 +493,7 @@
         "constant.other.caps"
       ],
       "settings": {
-        "foreground": "#F85210"
+        "foreground": "#CB4B16"
       }
     },
     {
@@ -507,7 +507,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#98bac7"
+        "foreground": "#859900"
       }
     },
     {
@@ -612,7 +612,7 @@
         "meta.at-rule.function variable.parameter.url"
       ],
       "settings": {
-        "foreground": "#FFCB8B"
+        "foreground": "#29A298"
       }
     },
     {
@@ -626,21 +626,21 @@
         "meta.import keyword.other"
       ],
       "settings": {
-        "foreground": "#39ADB5"
+        "foreground": "#5E96EB"
       }
     },
     {
       "name": "Keyword",
       "scope": ["keyword", "keyword.control", "keyword.other.important"],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#5E96EB"
       }
     },
     {
       "name": "Keyword SQL",
       "scope": "keyword.other.DML",
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#5E96EB"
       }
     },
     {
@@ -655,7 +655,7 @@
         "keyword.operator.or.regexp"
       ],
       "settings": {
-        "foreground": "#AE81FF"
+        "foreground": "#82AAFF"
       }
     },
     {
@@ -733,7 +733,7 @@
         "meta.block entity.name.label"
       ],
       "settings": {
-        "foreground": "#73daca"
+        "foreground": "#82AAFF"
       }
     },
     {
@@ -801,7 +801,7 @@
         "meta.object-literal entity.name.function"
       ],
       "settings": {
-        "foreground": "#22C7A8"
+        "foreground": "#FFCB8B"
       }
     },
     {
@@ -813,7 +813,7 @@
         "meta.function.parameter variable"
       ],
       "settings": {
-        "foreground": "#C792E9"
+        "foreground": "#82AAFF"
       }
     },
     {
@@ -846,8 +846,8 @@
       "name": "Inherited Class",
       "scope": "entity.other.inherited-class",
       "settings": {
-        "fontStyle": "",
-        "foreground": "#C792EA"
+        "fontStyle": "italic",
+        "foreground": "#ecefff"
       }
     },
     {
@@ -883,7 +883,7 @@
       "name": "Support Function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#FFCB8B"
+        "foreground": "#C792E9"
       }
     },
     {
